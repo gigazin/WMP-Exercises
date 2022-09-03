@@ -1,0 +1,13 @@
+body {
+  background-size: cover;
+  background-image: url('./Images/matthew-smith-Rfflri94rs8-unsplash.jpg');
+  background-color: #111222;
+}
+
+h1 {
+  font-family: 'Raleway', serif;
+  text-align: center;
+  color: white;
+  background-color: red;
+  border: 2px solid green;
+}

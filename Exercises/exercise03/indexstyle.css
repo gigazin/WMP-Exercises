@@ -1,0 +1,21 @@
+body {
+  background-color: #111222;
+}
+
+h1 {
+  font-family: 'Raleway', serif;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Inter', serif;
+  color: white;
+  text-align: left;
+}
+
+a {
+  font-family: 'Inter', serif;
+  color: white;
+  text-align: left;
+}
